@@ -1,2 +1,3 @@
 # hello-world
-First trial github repositoru
+First trial github repository with edits made
+
